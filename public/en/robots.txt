@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://siteacademic.netlify.app/sitemap.xml
