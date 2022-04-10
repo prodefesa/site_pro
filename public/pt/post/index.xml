@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Postagens | Academico</title>
+    <title>Postagens | ProDefesa</title>
     <link>/pt/post/</link>
       <atom:link href="/pt/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Postagens</description>
@@ -97,7 +97,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-627583419&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-137689524&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -107,7 +107,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-627583419&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-137689524&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
