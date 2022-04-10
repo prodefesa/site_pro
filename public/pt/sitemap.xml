@@ -44,16 +44,6 @@
       href="/pt/"
     /></url>
   <url>
-    <loc>/pt/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="/en/talk/example-talk/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="/pt/talk/example-talk/"
-    /></url>
-  <url>
     <loc>/pt/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -62,6 +52,16 @@
       rel="alternate"
       hreflang="pt"
       href="/pt/event/"
+    /></url>
+  <url>
+    <loc>/pt/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="/en/talk/example-talk/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="/pt/talk/example-talk/"
     /></url>
   <url>
     <loc>/pt/courses/</loc><lastmod>2021-01-24T00:00:00+00:00</lastmod><xhtml:link
@@ -84,6 +84,16 @@
       href="/pt/courses/example/"
     /></url>
   <url>
+    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href=""
+    /></url>
+  <url>
     <loc>/pt/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -92,26 +102,6 @@
       rel="alternate"
       hreflang="pt"
       href="/pt/tag/academic/"
-    /></url>
-  <url>
-    <loc>/pt/author/alice-bighetti-%E5%90%B3%E6%81%A9%E9%81%94/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="/en/author/alice-bighetti-%E5%90%B3%E6%81%A9%E9%81%94/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="/pt/author/alice-bighetti-%E5%90%B3%E6%81%A9%E9%81%94/"
-    /></url>
-  <url>
-    <loc>/pt/authors/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="/en/authors/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="/pt/authors/"
     /></url>
   <url>
     <loc>/pt/categories/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
@@ -154,6 +144,16 @@
       href="/pt/tags/"
     /></url>
   <url>
+    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href=""
+    /></url>
+  <url>
     <loc>/pt/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -164,14 +164,14 @@
       href="/pt/post/getting-started/"
     /></url>
   <url>
-    <loc>/pt/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
+    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="/en/author/%E5%90%B3%E6%81%A9%E9%81%94/"
+      href=""
     /><xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="/pt/author/%E5%90%B3%E6%81%A9%E9%81%94/"
+      href=""
     /></url>
   <url>
     <loc>/pt/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
@@ -304,6 +304,26 @@
       href="/pt/tag/demo/"
     /></url>
   <url>
+    <loc>/pt/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="/en/project/example/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="/pt/project/example/"
+    /></url>
+  <url>
+    <loc>/pt/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="/en/project/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="/pt/project/"
+    /></url>
+  <url>
     <loc>/pt/project/external-project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -322,16 +342,6 @@
       rel="alternate"
       hreflang="pt"
       href="/pt/project/internal-project/"
-    /></url>
-  <url>
-    <loc>/pt/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="/en/project/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="/pt/project/"
     /></url>
   <url>
     <loc>/pt/publication-type/2/</loc><lastmod>2015-09-01T00:00:00+00:00</lastmod><xhtml:link
@@ -354,14 +364,14 @@
       href="/pt/publication/journal-article/"
     /></url>
   <url>
-    <loc>/pt/author/robert-ford/</loc><lastmod>2015-09-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc></loc><lastmod>2015-09-01T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="/en/author/robert-ford/"
+      href=""
     /><xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="/pt/author/robert-ford/"
+      href=""
     /></url>
   <url>
     <loc>/pt/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><xhtml:link
@@ -384,6 +394,26 @@
       href="/pt/publication/conference-paper/"
     /></url>
   <url>
+    <loc>/pt/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="/en/publication/example/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="/pt/publication/example/"
+    /></url>
+  <url>
+    <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href=""
+    /></url>
+  <url>
     <loc>/pt/admin/</loc><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -394,12 +424,72 @@
       href="/pt/admin/"
     /></url>
   <url>
-    <loc>/pt/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc><xhtml:link
+    <loc>/pt/contact/</loc><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="/en/author/%E5%90%B3%E6%81%A9%E9%81%94/"
+      href="/en/contact/"
     /><xhtml:link
       rel="alternate"
       hreflang="pt"
-      href="/pt/author/%E5%90%B3%E6%81%A9%E9%81%94/"
+      href="/pt/contact/"
+    /></url>
+  <url>
+    <loc>/pt/people/</loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="/en/people/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="/pt/people/"
+    /></url>
+  <url>
+    <loc></loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href=""
+    /></url>
+  <url>
+    <loc></loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href=""
+    /></url>
+  <url>
+    <loc></loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href=""
+    /></url>
+  <url>
+    <loc></loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href=""
+    /></url>
+  <url>
+    <loc></loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href=""
     /></url></urlset>
