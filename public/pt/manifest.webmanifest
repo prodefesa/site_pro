@@ -1,6 +1,6 @@
 {
-  "name": "Academico",
-  "short_name": "Academico",
+  "name": "Chinese website title...",
+  "short_name": "Chinese website title...",
   "lang": "pt",
   "theme_color": "#1565c0",
   "background_color": "#1565c0",
@@ -14,5 +14,5 @@
     "type": "image/png"
      }],
   "display": "standalone",
-  "start_url": "/pt/?utm_source=web_app_manifest"
+  "start_url": "/pt?utm_source=web_app_manifest"
 }
