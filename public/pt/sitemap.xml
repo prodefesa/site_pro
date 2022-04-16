@@ -84,14 +84,14 @@
       href="/pt/courses/example/"
     /></url>
   <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/pt/authors/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
       href=""
     /><xhtml:link
       rel="alternate"
       hreflang="pt"
-      href=""
+      href="/pt/authors/"
     /></url>
   <url>
     <loc>/pt/tag/academic/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
@@ -112,6 +112,16 @@
       rel="alternate"
       hreflang="pt"
       href="/pt/categories/"
+    /></url>
+  <url>
+    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href=""
     /></url>
   <url>
     <loc>/pt/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
@@ -142,16 +152,6 @@
       rel="alternate"
       hreflang="pt"
       href="/pt/tags/"
-    /></url>
-  <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href=""
     /></url>
   <url>
     <loc>/pt/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
@@ -483,6 +483,8 @@
       hreflang="pt"
       href=""
     /></url>
+  <url>
+    <loc></loc></url>
   <url>
     <loc></loc><xhtml:link
       rel="alternate"

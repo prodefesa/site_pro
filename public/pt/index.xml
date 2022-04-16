@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ProDefesa</title>
+    <title></title>
     <link>/pt/</link>
       <atom:link href="/pt/index.xml" rel="self" type="application/rss+xml" />
-    <description>ProDefesa</description>
+    <description></description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hu9908d69d9bb7f7dd2a76b27d933f6722_49721_512x512_fill_lanczos_center_3.png</url>
-      <title>ProDefesa</title>
+      <url>/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <title></title>
       <link>/pt/</link>
     </image>
     
@@ -212,7 +212,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-812756943&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-458123796&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -222,7 +222,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-812756943&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-458123796&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
