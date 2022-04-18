@@ -117,7 +117,7 @@
     <loc>/pt/author/charles-souza/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
-      href=""
+      href="/en/author/charles-souza/"
     /><xhtml:link
       rel="alternate"
       hreflang="pt"
@@ -167,7 +167,7 @@
     <loc>/pt/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
-      href=""
+      href="/en/author/%E5%90%B3%E6%81%A9%E9%81%94/"
     /><xhtml:link
       rel="alternate"
       hreflang="pt"
@@ -367,7 +367,7 @@
     <loc>/pt/author/robert-ford/</loc><lastmod>2015-09-01T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="en"
-      href=""
+      href="/en/author/robert-ford/"
     /><xhtml:link
       rel="alternate"
       hreflang="pt"
@@ -404,15 +404,7 @@
       href="/pt/publication/example/"
     /></url>
   <url>
-    <loc>/pt/author/charles/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="/pt/author/charles/"
-    /></url>
+    <loc>/pt/author/charles/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod></url>
   <url>
     <loc>/pt/admin/</loc><xhtml:link
       rel="alternate"
@@ -447,7 +439,7 @@
     <loc>/pt/author/darley-de-oliveira/</loc><xhtml:link
       rel="alternate"
       hreflang="en"
-      href=""
+      href="/en/author/darley-de-oliveira/"
     /><xhtml:link
       rel="alternate"
       hreflang="pt"
@@ -457,7 +449,7 @@
     <loc>/pt/author/gilberto-correa/</loc><xhtml:link
       rel="alternate"
       hreflang="en"
-      href=""
+      href="/en/author/gilberto-correa/"
     /><xhtml:link
       rel="alternate"
       hreflang="pt"
@@ -467,7 +459,7 @@
     <loc>/pt/author/josiane-francelino/</loc><xhtml:link
       rel="alternate"
       hreflang="en"
-      href=""
+      href="/en/author/josiane-francelino/"
     /><xhtml:link
       rel="alternate"
       hreflang="pt"
@@ -477,19 +469,27 @@
     <loc>/pt/author/ligia-urbina/</loc><xhtml:link
       rel="alternate"
       hreflang="en"
-      href=""
+      href="/en/author/ligia-urbina/"
     /><xhtml:link
       rel="alternate"
       hreflang="pt"
       href="/pt/author/ligia-urbina/"
     /></url>
   <url>
-    <loc>/pt/author/thiago-caliari/</loc></url>
+    <loc>/pt/author/thiago-caliari/</loc><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="/en/author/thiago-caliari/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="/pt/author/thiago-caliari/"
+    /></url>
   <url>
     <loc>/pt/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc><xhtml:link
       rel="alternate"
       hreflang="en"
-      href=""
+      href="/en/author/%E5%90%B3%E6%81%A9%E9%81%94/"
     /><xhtml:link
       rel="alternate"
       hreflang="pt"

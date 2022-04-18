@@ -114,6 +114,16 @@
       href="/en/categories/"
     /></url>
   <url>
+    <loc>/en/author/charles-souza/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="/pt/author/charles-souza/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="/en/author/charles-souza/"
+    /></url>
+  <url>
     <loc>/en/category/demo/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="pt"
@@ -144,16 +154,6 @@
       href="/en/tags/"
     /></url>
   <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="/pt/author/charles-souza/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /></url>
-  <url>
     <loc>/en/post/getting-started/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="pt"
@@ -164,14 +164,14 @@
       href="/en/post/getting-started/"
     /></url>
   <url>
-    <loc></loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/en/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="pt"
       href="/pt/author/%E5%90%B3%E6%81%A9%E9%81%94/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href=""
+      href="/en/author/%E5%90%B3%E6%81%A9%E9%81%94/"
     /></url>
   <url>
     <loc>/en/tag/%E5%BC%80%E6%BA%90/</loc><lastmod>2020-12-13T00:00:00+00:00</lastmod><xhtml:link
@@ -374,14 +374,14 @@
       href="/en/publication/journal-article/"
     /></url>
   <url>
-    <loc></loc><lastmod>2015-09-01T00:00:00+00:00</lastmod><xhtml:link
+    <loc>/en/author/robert-ford/</loc><lastmod>2015-09-01T00:00:00+00:00</lastmod><xhtml:link
       rel="alternate"
       hreflang="pt"
       href="/pt/author/robert-ford/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href=""
+      href="/en/author/robert-ford/"
     /></url>
   <url>
     <loc>/en/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><xhtml:link
@@ -444,62 +444,62 @@
       href="/en/people/"
     /></url>
   <url>
-    <loc></loc><xhtml:link
-      rel="alternate"
-      hreflang="pt"
-      href="/pt/author/charles/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /></url>
-  <url>
-    <loc></loc><xhtml:link
+    <loc>/en/author/darley-de-oliveira/</loc><xhtml:link
       rel="alternate"
       hreflang="pt"
       href="/pt/author/darley-de-oliveira/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href=""
+      href="/en/author/darley-de-oliveira/"
     /></url>
   <url>
-    <loc></loc><xhtml:link
+    <loc>/en/author/gilberto-correa/</loc><xhtml:link
       rel="alternate"
       hreflang="pt"
       href="/pt/author/gilberto-correa/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href=""
+      href="/en/author/gilberto-correa/"
     /></url>
   <url>
-    <loc></loc><xhtml:link
+    <loc>/en/author/josiane-francelino/</loc><xhtml:link
       rel="alternate"
       hreflang="pt"
       href="/pt/author/josiane-francelino/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href=""
+      href="/en/author/josiane-francelino/"
     /></url>
   <url>
-    <loc></loc><xhtml:link
+    <loc>/en/author/ligia-urbina/</loc><xhtml:link
       rel="alternate"
       hreflang="pt"
       href="/pt/author/ligia-urbina/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href=""
+      href="/en/author/ligia-urbina/"
     /></url>
   <url>
-    <loc></loc><xhtml:link
+    <loc>/en/author/thiago-caliari/</loc><xhtml:link
+      rel="alternate"
+      hreflang="pt"
+      href="/pt/author/thiago-caliari/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="/en/author/thiago-caliari/"
+    /></url>
+  <url>
+    <loc>/en/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc><xhtml:link
       rel="alternate"
       hreflang="pt"
       href="/pt/author/%E5%90%B3%E6%81%A9%E9%81%94/"
     /><xhtml:link
       rel="alternate"
       hreflang="en"
-      href=""
+      href="/en/author/%E5%90%B3%E6%81%A9%E9%81%94/"
     /></url></urlset>
